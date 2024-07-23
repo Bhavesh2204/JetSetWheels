@@ -10,9 +10,6 @@ const AboutUs = () => {
           Our team works tirelessly to ensure customer satisfaction and excellence in every project.
           Thank you for choosing us. We look forward to serving you!
         </p>
-        <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet molestiae, molestias totam beatae perferendis accusamus voluptatem assumenda commodi voluptas recusandae aperiam a tenetur mollitia id cum delectus ipsa ratione tempora!
-        </p>
       </div>
     </div>
   );
